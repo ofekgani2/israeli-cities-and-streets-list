@@ -1,4 +1,5 @@
-[
+{
+    "Cities": [
     {
         "name": "אבו גוש",
         "english_name": "abu ghosh",
@@ -7590,3 +7591,4 @@
         "latt": 32.61113
     }
 ]
+}
